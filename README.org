@@ -1,0 +1,2 @@
+* A Chip 8 emulator
+Written in Java as a practice project over the christmas holidays.
